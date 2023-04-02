@@ -1,0 +1,32 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  padding: 16px;
+}
+
+.header-links ul {
+  display: flex;
+  gap: 16px;
+}
+
+ul {
+  list-style: none;
+}
+
+.body {
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+.footer {
+  display: flex;
+  justify-content: center;
+}
