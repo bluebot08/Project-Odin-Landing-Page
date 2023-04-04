@@ -87,3 +87,12 @@ ul {
 .img-group img {
   max-width: calc(25% - 8px);
 }
+
+.testimony {
+  background-color: #e5e7eb;
+  color: #1f2937;
+  font-size: 18px;
+  font-style: italic;
+  font-weight: 300;
+  padding: 48px;
+}
