@@ -35,4 +35,11 @@ ul {
 .footer {
   display: flex;
   justify-content: center;
+  color: white;
+}
+
+.headline {
+  display: flex;
+  justify-content: space-evenly;
+  padding: 16px;
 }
