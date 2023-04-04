@@ -22,11 +22,13 @@ button {
 .footer,
 .headline {
   background-color: #1f2937;
+  color: white;
 }
 
 .header {
   display: flex;
   justify-content: space-between;
+  align-items: center;
   padding: 16px;
 }
 
