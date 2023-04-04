@@ -11,6 +11,12 @@ img {
   flex-grow: 0;
 }
 
+button {
+  background-color: #3882f6;
+  border-radius: 12px;
+  width: 50%;
+}
+
 .header,
 .footer {
   background-color: #1f2937;
