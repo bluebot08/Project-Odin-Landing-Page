@@ -1,8 +1,12 @@
 body {
   display: flex;
   flex-direction: column;
+  height: 100vh;
 }
-
+.header,
+.footer {
+  background-color: #1f2937;
+}
 .header {
   display: flex;
   justify-content: space-between;
@@ -12,6 +16,8 @@ body {
 .header-links ul {
   display: flex;
   gap: 16px;
+  font: 18px;
+  color: #e5e7eb;
 }
 
 ul {
