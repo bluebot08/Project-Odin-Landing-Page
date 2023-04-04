@@ -14,13 +14,16 @@ img {
 button {
   background-color: #3882f6;
   border-radius: 12px;
-  width: 50%;
+  width: 20%;
+  color: white;
 }
 
 .header,
-.footer {
+.footer,
+.headline {
   background-color: #1f2937;
 }
+
 .header {
   display: flex;
   justify-content: space-between;
