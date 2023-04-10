@@ -106,4 +106,18 @@ ul {
 
 .call-to-action {
   background-color: #3882f6;
+  width: 80%;
+  margin-top: 16px;
+  justify-content: space-evenly;
+  color: white;
+}
+
+.call-to-action button {
+  width: 150%;
+  border-color: white;
+  background: #3882f6;
+}
+
+.no-margin {
+  margin: 0;
 }
