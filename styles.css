@@ -96,3 +96,7 @@ ul {
   font-weight: 300;
   padding: 48px;
 }
+
+.italic {
+  font-style: italic;
+}
